@@ -1,0 +1,30 @@
+body{background-color: rgb(242, 242, 242);
+font-family: Arial;
+font-size: 10px;
+padding-left: 100px;
+padding-right: 100px}
+
+.header-image { width: 100%;
+    background-color:rgb(195, 214, 206);
+    padding: 5px;
+display:block}
+
+h1 {color: rgb(6, 87, 22);
+font-family: Ebrima;
+font-size: 26px;}
+
+.slogan{color: rgb(4, 5, 4);
+    font-family: Ebrima;
+    font-size: 9px;}
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center}
+
+a{color:rgb(6, 87, 22);
+text-decoration:none;
+margin-left: 16px;
+font-weight:bold}
+
+a:hover{text-decoration: underline;}
